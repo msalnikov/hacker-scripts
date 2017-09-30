@@ -5,6 +5,9 @@ story](https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/)_:
 
 > xxx: OK, so, our build engineer has left for another company. The dude was literally living inside the terminal. You know, that type of a guy who loves Vim, creates diagrams in Dot and writes wiki-posts in Markdown... If something - anything - requires more than 90 seconds of his time, he writes a script to automate that.
 
+
+Hacktoberfest!!!1
+
 > xxx: So we're sitting here, looking through his, uhm, "legacy"
 
 > xxx: You're gonna love this
