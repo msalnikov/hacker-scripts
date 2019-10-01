@@ -60,3 +60,6 @@ For Ruby scripts you need to install gems:
 
 ---
 Code is released under WTFPL.
+
+---
+Pull request changes
