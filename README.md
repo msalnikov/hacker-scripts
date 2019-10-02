@@ -63,3 +63,6 @@ Code is released under WTFPL.
 
 ---
 Pull request changes
+
+---
+Peredayu privet vsem potomkam iz 2019
